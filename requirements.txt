@@ -1,0 +1,7 @@
+numpy>=1.21.6
+matplotlib>=3.5.3
+scipy>=1.7.3
+scikit-learn>=1.0.2
+tqdm==4.66.2
+librosa==0.10.1
+ipykernel==6.16.2

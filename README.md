@@ -1,5 +1,5 @@
 # tismir-beat-2024
-Code for research paper "Selective Annotation of Few Data for Beat Tracking of Latin American Music Using Rhythmic Features" accepted to TISMIR in 2024.
+Code for research paper "Selective Annotation of Few Data for Beat Tracking of Latin American Music Using Rhythmic Features" to appear in TISMIR in 2024.
 
 This repository includes functions for extracting rhythmic representations (scale transform magnitudes and onset patterns) and selective sampling schemes (vote-k, mfl, diversity, k-medoids). All functions are written in Python, with package requirements expressed in the [requirements](https://github.com/maia-ls/tismir-beat-2024/blob/main/requirements.txt) file. The only exception is the medoid-based feature selection, which is written for Matlab, but can be called through Python in a subprocess (provided that you have Matlab installed). Examples of function calling are provided in the [example notebook](https://github.com/maia-ls/tismir-beat-2024/blob/main/example.ipynb).
 

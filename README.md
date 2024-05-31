@@ -13,10 +13,11 @@ If you use this in your work, please consider citing:
    author = "Maia, Lucas S. and Rocamora, Mart{\'{i}}n and Biscainho, Luiz W. P. and Fuentes, Magdalena",
    title = "Selective Annotation of Few Data for Beat Tracking of Latin American Music Using Rhythmic Features",
    journal = "Transactions of the International Society for Music Information Retrieval",
+   year = "2014",
    volume = "7",
    number = "1",
    month = mar,
-   year = "2014",
+   pages = "99-112",
    doi = "10.5334/tismir.170",
 }
 ```
